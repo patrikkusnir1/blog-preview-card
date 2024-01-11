@@ -99,8 +99,7 @@ h1,
 
 p:hover,
 span:hover,
-h1:hover,
-h2:hover {
+h1:hover {
     color: hsl(47, 88%, 63%);
 }
 
